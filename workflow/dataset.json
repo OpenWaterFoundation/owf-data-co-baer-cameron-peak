@@ -1,0 +1,26 @@
+{
+  "title": "BAER for Cameron Peak Fire",
+  "description": "BAER for Cameron Peak Fire.",
+  "identifier": "owf-data-co-baer-cameron-peak",
+  "landingPage": "https://data.openwaterfoundation.org/state/co/usfs/bear/cameron-peak",
+  "issued": "2022-07-27",
+  "keyword": [
+    "point",
+    "cameron peak",
+    "baer",
+    "wildfire"
+  ],
+  "publisher": {
+    "name": "Open Water Foundation",
+    "mbox": "info@openwaterfoundation.org"
+  },
+  "distribution": [
+    {
+      "accessURL": "",
+      "byteSize": null,
+      "description": "Resource locator",
+      "format": "application/geo+json",
+      "title": "BAER for Cameron Peak Fire"
+    }
+  ]
+}
