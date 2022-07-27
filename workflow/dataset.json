@@ -5,9 +5,10 @@
   "landingPage": "https://data.openwaterfoundation.org/state/co/usfs/bear/cameron-peak",
   "issued": "2022-07-27",
   "keyword": [
-    "point",
-    "cameron peak",
+    "raster",
     "baer",
+    "cameron peak",
+    "soil burn severity",
     "wildfire"
   ],
   "publisher": {
