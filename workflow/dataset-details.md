@@ -1,7 +1,7 @@
 ## Overview ##
 
 This dataset contains the Burn Area Emergency Response (BAER) soil burn severity (SBS) GeoTIFF file
-for the Colorado Cameron Peak wildfire.
+for the Colorado Cameron Peak 2020 wildfire.
 
 The GeoTIFF uses ESPG:4326 coordinate reference system (CRS) to facilitate use
 by web mapping software that requires this CRS.
